@@ -49,7 +49,7 @@ RANDOMCOLOR = GREEN = (0, 255, 0)
 foodCounter = 0
 NEWFOOD = 400
 FOODSIZE = 20
-bouncer = {'rect':pygame.Rect(random.randint(0, WINDOWWIDTH - FOODSIZE), random.randint(0, WINDOWHEIGHT - FOODSIZE), 50, 50), 'dir':DIRECTION[random.randint(0, 4)]}
+bouncer = {'rect':pygame.Rect(random.randint(0, WINDOWWIDTH - FOODSIZE), random.randint(0, WINDOWHEIGHT - FOODSIZE), 50, 50), 'dir':DIRECTION[random.randint(0, 3)]}
 foods = []
 for i in range(20):
     foods.append(pygame.Rect(random.randint(0, WINDOWWIDTH - FOODSIZE), random.randint(0, WINDOWHEIGHT - FOODSIZE), FOODSIZE, FOODSIZE))
