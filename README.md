@@ -5,4 +5,4 @@ You have to install pygame module before run the file!<br>
 I test the code with pycharm.:blush:
 You can run this game by running main.py.
 ![](https://github.com/Nick-Aaron/collisionDetection/blob/master/gameRun.png)<br>
-:smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley:
+:smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley:
