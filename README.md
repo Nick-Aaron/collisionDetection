@@ -6,4 +6,4 @@ The code was tested by pycharm.:blush:
 You can run this game by running main.py.
 ![](https://github.com/Nick-Aaron/collisionDetection/blob/master/gameRun.png)<br>
 :smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley::smiley:<br>
-The original code comes from this website:[inventwithpython](http://inventwithpython.com/chapters/).And in Chapter 18 - Collision Detection and Input.
+The original code comes from this website:[inventwithpython](http://inventwithpython.com/chapters/).And in [Chapter 18 - Collision Detection and Input](http://inventwithpython.com/chapter18.html).
